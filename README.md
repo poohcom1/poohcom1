@@ -1,8 +1,8 @@
 ### hi im poohcom1 ✨
 
-#### i like making web apps
+#### i like making games
 
-##### and sometime games
+##### and sometime webapps
 
 ###### anyway here's my languages:
 
