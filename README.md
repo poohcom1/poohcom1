@@ -1,9 +1,11 @@
-### hi im poohcom1 ✨
+### hi im pocchi ✨
 
 #### i like making games
 
 ##### and sometime webapps
 
-###### anyway here's my languages:
+###### anyway here's my links:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poohcom1&layout=compact)
+- [**Twitter**](https://twitter.com/poohcom1) (lots of stuff here)
+- [**Itch**](https://poohcom1.itch.io/) (not much here)
+- [**Youtube**](https://www.youtube.com/@poohcom1) (even less here)
