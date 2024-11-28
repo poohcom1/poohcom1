@@ -1,8 +1,8 @@
-### hi im pocchi ✨
+### hi im Pooh👋
 
 #### i like making games
 
-##### and sometime webapps
+##### and sometime random apps
 
 ###### anyway here's my links:
 
