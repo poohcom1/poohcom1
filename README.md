@@ -8,5 +8,6 @@
 
 - [**Twitter**](https://twitter.com/poohcom1) (devlog)
 - [**bsky.app**](https://bsky.app/profile/poohcom1.bsky.social) (art n' stuff)
+- [**Soundcloud**](https://soundcloud.com/poohcom1) (music)
 - [**Itch**](https://poohcom1.itch.io/) (old game jams)
-- [**Youtube**](https://www.youtube.com/@poohcom1) (old songs and arrangements)
+
