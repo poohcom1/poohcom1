@@ -1,13 +1,14 @@
-### hi im Pooh👋
+### Hi, I'm Pooh👋
 
-#### i like making games
+#### I'm a game developer working on _**False Princess Iruruu**_, an action-heavy Sekiro-like pixel art game made in **Godot**.
 
-##### and sometime random apps
+![False Princess Iruruu teasr](https://github.com/poohcom1/poohcom1/blob/master/media/False%20Princess%20Iruruu%20-%20Teaser%202025.gif?raw=true)
 
-###### anyway here's my links:
+You can follow the development on my socials:
 
 - [**Twitter**](https://twitter.com/poohcom1) (devlog)
-- [**bsky.app**](https://bsky.app/profile/poohcom1.bsky.social) (art n' stuff)
+- [**bsky.app**](https://bsky.app/profile/poohcom1.bsky.social) (devlog with more yapping)
 - [**Soundcloud**](https://soundcloud.com/poohcom1) (music)
 - [**Itch**](https://poohcom1.itch.io/) (old game jams)
 
+I also make a lot of Godot addons, which I open source here on this Github account.
