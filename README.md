@@ -6,7 +6,7 @@ I'm a game developer working on _**False Princess Iruruu**_, an action-heavy Sek
 You can follow the development on my socials:
 
 - [**Twitter**](https://twitter.com/poohcom1) (devlog)
-- [**bsky.app**](https://bsky.app/profile/poohcom1.bsky.social) (devlog / art / music / yapping)
+- [**bsky.app**](https://bsky.app/profile/pocchistudio.com) (devlog / art / music / yapping)
 - [**Soundcloud**](https://soundcloud.com/poohcom1) (music)
 - [**Itch**](https://poohcom1.itch.io/) (old game jams)
 
